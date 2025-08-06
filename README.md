@@ -1,8 +1,8 @@
 Olá, sou Mayki Yudi Hashimoto
 
 <div>
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=MaykiDev&show_icons=true">
-  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykiDev&layout=donut">
+  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=MaykiDev&theme=algolia&show_icons=true">
+  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykiDev&theme=algolia&layout=donut">
 </div>
 
 
