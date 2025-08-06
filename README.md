@@ -4,10 +4,12 @@
 ### Sobre mim
 <br>
 💻 Eu sou um desenvolvedor [Front-End]
+<br>
 👩‍💻 Atualmente eu trabalho como Desenvolvedor Web - IFCT Contabilidade
+<br>
 🎓 Eu estudo na Alura
 <br>
-
+<br>
 <div>
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=MaykiDev&theme=algolia&show_icons=true">
   <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykiDev&theme=algolia&layout=donut">
